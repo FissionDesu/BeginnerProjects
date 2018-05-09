@@ -1,2 +1,2 @@
-# BeginnerProjects
-Projects that helped me learn how to code
+# Stuff I learn
+Things I've made to help me learn code
